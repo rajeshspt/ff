@@ -17,3 +17,4 @@ sex_list=['male','female','female','other','male','other','other','male',
 df_age_sex=pd.DataFrame({'age':age_list,'gender':sex_list})
 print(df_age_sex)
 print("spt1")
+#hwellot
